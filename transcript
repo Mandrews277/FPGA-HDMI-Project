@@ -1,0 +1,45 @@
+# Compile of HDMI.sv was successful.
+# Compile of HDMI_test.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.HDMI
+# vsim -gui work.HDMI 
+# Start time: 16:14:43 on Mar 29,2022
+# Loading sv_std.std
+# Loading work.HDMI
+# Loading work.pll
+# ** Error: (vsim-3033) Instantiation of 'altpll' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /HDMI/pll0 File: C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI.sv Line: 33
+#         Searched libraries:
+#             C:/Users/Mike/Documents/Quartus Projects/HDMI Project/work
+# Loading work.HDMI_test
+# Loading work.TMDS_encoder
+# Loading work.pll_two
+# ** Error: (vsim-3033) Instantiation of 'altpll' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /HDMI/HDMI_test_0/pll_two_0 File: C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI_test.sv Line: 109
+#         Searched libraries:
+#             C:/Users/Mike/Documents/Quartus Projects/HDMI Project/work
+# Loading work.OBUFDS
+# Error loading design
+# End time: 16:14:44 on Mar 29,2022, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 5
+vsim -gui work.HDMI
+# vsim -gui work.HDMI 
+# Start time: 16:15:00 on Mar 29,2022
+# Loading sv_std.std
+# Loading work.HDMI
+# Loading work.pll
+# ** Error: (vsim-3033) Instantiation of 'altpll' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /HDMI/pll0 File: C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI.sv Line: 33
+#         Searched libraries:
+#             C:/Users/Mike/Documents/Quartus Projects/HDMI Project/work
+# Loading work.HDMI_test
+# Loading work.TMDS_encoder
+# Loading work.pll_two
+# ** Error: (vsim-3033) Instantiation of 'altpll' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /HDMI/HDMI_test_0/pll_two_0 File: C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI_test.sv Line: 109
+#         Searched libraries:
+#             C:/Users/Mike/Documents/Quartus Projects/HDMI Project/work
+# Loading work.OBUFDS
+# Error loading design
+# End time: 16:15:01 on Mar 29,2022, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 1

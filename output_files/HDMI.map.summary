@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sat Apr  9 18:59:11 2022
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : HDMI
+Top-level Entity Name : AV_Top
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 771
+Total pins : 17
+Total virtual pins : 0
+Total block memory bits : 384
+Total DSP Blocks : 4
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 2
+Total DLLs : 0

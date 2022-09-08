@@ -1,0 +1,14 @@
+
+State Machine - |AV_Top|dft:dft_0|state
+Name state.OU state.CO state.CS state.SP 
+state.SP 0 0 0 0 
+state.CS 0 0 1 1 
+state.CO 0 1 0 1 
+state.OU 1 0 0 1 
+
+State Machine - |AV_Top|dft:dft_0|adcinterface:comb_3|state
+Name state.SH state.SA state.SL state.W2 
+state.W2 0 0 0 0 
+state.SL 0 0 1 1 
+state.SA 0 1 0 1 
+state.SH 1 0 0 1 

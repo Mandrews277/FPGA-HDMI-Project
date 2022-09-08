@@ -1,0 +1,57 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "TMDSp[0]",
+					"strict" : false
+				},
+				{
+					"name" : "TMDSp[1]",
+					"strict" : false
+				},
+				{
+					"name" : "TMDSp[2]",
+					"strict" : false
+				},
+				{
+					"name" : "TMDSn[0]",
+					"strict" : false
+				},
+				{
+					"name" : "TMDSn[1]",
+					"strict" : false
+				},
+				{
+					"name" : "TMDSn[2]",
+					"strict" : false
+				},
+				{
+					"name" : "clk_68",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_CONVST",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_SCK",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_SDI",
+					"strict" : false
+				},
+				{
+					"name" : "reset_n",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_SDO",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,165 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vHDMI
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1648595676
+!i10b 1
+!s100 :J1aLS1LlG?U4Bd3T]ZMz1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ih6ll:^zJ;f32hF8cbnfMI2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/Mike/Documents/Quartus Projects/HDMI Project
+Z5 w1648595579
+Z6 8C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI.sv
+Z7 FC:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI.sv
+!i122 0
+L0 5 10
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1648595676.000000
+Z10 !s107 C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+n@h@d@m@i
+vHDMI_test
+R0
+R1
+!i10b 1
+!s100 PK12;<22GgV`D8i2hmPLh1
+R2
+IjEaHT8OSbzDJcDUHJ>dgI1
+R3
+S1
+R4
+Z14 w1648593470
+Z15 8C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI_test.sv
+Z16 FC:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI_test.sv
+!i122 1
+L0 4 57
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI_test.sv|
+Z17 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI_test.sv|
+!i113 1
+R12
+R13
+n@h@d@m@i_test
+vOBUFDS
+R0
+R1
+!i10b 1
+!s100 @>dYP7EB@XTV]7jLJeR^=0
+R2
+IUBT=o;aPMlR9DQBDa1Ce[3
+R3
+S1
+R4
+R14
+R15
+R16
+!i122 1
+L0 182 4
+R8
+r1
+!s85 0
+31
+R9
+Z18 !s107 C:/Users/Mike/Documents/Quartus Projects/HDMI Project/HDMI_test.sv|
+R17
+!i113 1
+R12
+R13
+n@o@b@u@f@d@s
+vpll
+R0
+R1
+!i10b 1
+!s100 Oj4dKfBh4lnF4>8Gm0R880
+R2
+IbD6`dOC=V9l_8PinI35@b3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 0
+L0 21 84
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vpll_two
+R0
+R1
+!i10b 1
+!s100 bO;zBaaWHcM7K94F2SN4F3
+R2
+I[]gOVK1k0TP2B]X<]Z[cF1
+R3
+S1
+R4
+R14
+R15
+R16
+!i122 1
+L0 97 84
+R8
+r1
+!s85 0
+31
+R9
+R18
+R17
+!i113 1
+R12
+R13
+vTMDS_encoder
+R0
+R1
+!i10b 1
+!s100 O>Y2;AHF<I6l9M:57BAD72
+R2
+IOzDKLl1CUE3Tz2R;hleiR1
+R3
+S1
+R4
+R14
+R15
+R16
+!i122 1
+L0 64 24
+R8
+r1
+!s85 0
+31
+R9
+R18
+R17
+!i113 1
+R12
+R13
+n@t@m@d@s_encoder
